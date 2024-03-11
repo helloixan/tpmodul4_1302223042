@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("tpmodul4_1302223042")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28d4fe7618d316e208dad8896f01436b7fa2897f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("tpmodul4_1302223042")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tpmodul4_1302223042")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
